@@ -1,6 +1,6 @@
 package com.example.bookStore.domain.ports.out;
 
-import com.example.bookStore.domain.ports.models.CategoryModel;
+import com.example.bookStore.domain.models.CategoryModel;
 
 import java.util.List;
 

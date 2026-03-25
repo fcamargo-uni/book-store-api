@@ -2,7 +2,7 @@ package com.example.bookStore.infrastructure.in;
 
 
 import com.example.bookStore.domain.ports.in.CategoryUseCase;
-import com.example.bookStore.domain.ports.models.CategoryModel;
+import com.example.bookStore.domain.models.CategoryModel;
 import com.example.bookStore.infrastructure.in.Dtos.CategoryDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

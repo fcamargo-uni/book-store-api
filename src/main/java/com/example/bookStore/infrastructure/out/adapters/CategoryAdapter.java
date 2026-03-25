@@ -1,6 +1,6 @@
 package com.example.bookStore.infrastructure.out.adapters;
 
-import com.example.bookStore.domain.ports.models.CategoryModel;
+import com.example.bookStore.domain.models.CategoryModel;
 import com.example.bookStore.domain.ports.out.CategoryRepositoryPort;
 import com.example.bookStore.infrastructure.out.entities.Category;
 import com.example.bookStore.infrastructure.out.repository.CategoryRepository;
